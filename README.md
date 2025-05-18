@@ -1,11 +1,5 @@
 # ScartixUI
 
----
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![GitHub issues](https://img.shields.io/github/issues/AshuraDeath/ScartixUI-mikasa)](https://github.com/AshuraDeath/ScartixUI-mikasa/issues)  
-![GitHub top language](https://img.shields.io/github/languages/top/AshuraDeath/ScartixUI-mikasa)  
-
 **ScartixUI** is a powerful bridge between design and code, built to streamline the collaboration between designers and developers. It enables teams to transform Figma components into production-ready UI code with minimal effort and maximum accuracy. Whether you're a designer looking to document component structures or a developer aiming to bypass manual handoffs, ScartixUI simplifies the entire process and accelerates your workflow.
 
 ---
@@ -97,6 +91,9 @@ We welcome issues, feature requests, and pull requests!
 Be sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![GitHub issues](https://img.shields.io/github/issues/AshuraDeath/ScartixUI-mikasa)](https://github.com/AshuraDeath/ScartixUI-mikasa/issues)  
+![GitHub top language](https://img.shields.io/github/languages/top/AshuraDeath/ScartixUI-mikasa)  
+---
 ## 📄 License
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
